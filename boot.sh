@@ -1,0 +1,1 @@
+chmod +x boot.sh
